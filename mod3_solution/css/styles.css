@@ -1,0 +1,134 @@
+* {
+	box-sizing:  border-box;
+}
+h1 {
+	color: black;
+	text-align: left;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+h2 {
+	font-family:  "Arial, Helvetica, serif";
+	color: black;
+	text-align: center;
+}
+h3 {
+	font-family:  "Arial, Helvetica, serif";
+	color: white;
+	text-align: center;
+	background-color: red;
+	margin-bottom: -1px;
+}
+p {
+	width: 100%;
+	float: left;
+	padding: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: red;
+}
+h1.llc {
+  top: 0;
+  left: 0;
+}
+
+.row {
+	margin: 10px;
+}
+.dropdownText {
+	color: white;
+}
+.bg-color1 {
+	/*background-color:  #FFB56F;*/
+	background-color: #897A59;
+}
+.bg-color2 {
+	/*background-color:  #FFA1A1;*/
+	background-color: #895E59;
+}
+.bg-color3 {
+	/*background-color: #A2D89A;*/
+	background-color: #668959;
+}
+.bg-color4 {
+	background-color:  #20528C;
+}
+.bg-color5 {
+	color:  #00FFFF;
+}
+#menu-categories-title + div {
+  margin-bottom: 50px;
+}
+#header-nav{
+	background-color:  #CF92E8;
+	border-radius: 0;
+	border: 0;
+	min-height: 65px;
+	max-height: 100px;
+}
+.navbar-brand {
+  /*padding-top: 25px;*/
+}
+#nav-list {
+  margin-top: 0px;
+}
+#nav-list a {
+  color: white;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+  color: black;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+#collapsable-nav a { /* Collapsed nav menu text */
+  font-size: 1.2em;
+}
+#collapsable-nav a span { /* Collapsed nav menu glyph */
+  font-size: 1em;
+  margin-right: 5px;
+}
+#phone a { /* Phone number */
+  text-align: right;
+  padding-bottom: 0;
+}
+#phone div { /* We Deliver */
+  color: #557c3e;
+  text-align: right;
+  padding-right: 15px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+.container .jumbotron {
+  box-shadow: 0 0 50px #3F0C1F;
+  border: 2px solid #3F0C1F;
+}
+#item1 {
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#item2 {
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#item3 {
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+
